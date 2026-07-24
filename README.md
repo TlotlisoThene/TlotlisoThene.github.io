@@ -25,6 +25,9 @@ This template is set up to showcase your best work. You can easily customize the
 
 ### Customer Shopping Behavior Analysis
 *A brief description of your project, the tools used, and the key insights derived.*
+
+This end-to-end data analytics project explores customer shopping behavior to identify purchasing trends and customer insights. Using Python, PostgreSQL, and Power BI, I cleaned, analyzed, and visualized the data to support data-driven business decisions.
+
 **🔗 [View the project here](https://github.com/TlotlisoThene/Customer-Shopping-Behavior-Analysis/blob/main/README_TEMPLATE.md)**
 
 
