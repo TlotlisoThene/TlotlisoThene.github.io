@@ -17,15 +17,22 @@ This template is set up to showcase your best work. You can easily customize the
 ### HR Workforce Analysis
 *A brief description of your project, the tools used, and the key insights derived.*
 
+**🔗 [View the project here](https://github.com/TlotlisoThene/HR-Workforce-Analysis/blob/main/README_TEMPLATE.md)**
+
 ### Retail Sales Performance Analysis
 *A brief description of your project, the tools used, and the key insights derived.*
 
+**🔗 [View the project here](https://github.com/TlotlisoThene/Retail-Sales-Performance-Analysis/blob/main/README_TEMPLATE.md)**
+
 ### Credit Card Transaction Analysis
-*A brief description of your project, the tools used, and the key insights derived.*
+
+- Analyzed credit card transaction and customer data using **Power BI, SQL, Power Query, and DAX** to monitor key financial metrics, uncover spending trends, and support data-driven business decisions.
+
+**🔗 [View the project here](https://github.com/TlotlisoThene/Credit-Card-Transaction-Analysis/blob/main/README_TEMPLATE.md)**
 
 ### Customer Shopping Behavior Analysis
 
-- This end-to-end data analytics project explores customer shopping behavior to identify purchasing trends and customer insights. Using Python, MySQL, and Power BI, I cleaned, analyzed, and visualized the data to support data-driven business decisions.
+- This end-to-end data analytics project explores customer shopping behavior to identify purchasing trends and customer insights. Using **Python, MySQL, and Power BI**, I cleaned, analyzed, and visualized the data to support data-driven business decisions.
 
 **🔗 [View the project here](https://github.com/TlotlisoThene/Customer-Shopping-Behavior-Analysis/blob/main/README_TEMPLATE.md)**
 
