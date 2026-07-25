@@ -7,7 +7,7 @@ Welcome to my Data Analysis Portfolio! This repository showcases a collection of
 - 🐍 **Python + SQL + Power BI:** [Customer Shopping Behavior Analysis](#customer-shopping-behavior-analysis)
 - 📊 **Power BI:** [HR Workforce Analysis](#hr-workforce-analysis)
 - 📈 **Excel:** [Retail Sales Performance Analysis](#retail-sales-performance-analysis)
-- 💳 **Power BI:** [Credit Card Transaction Analysis](#credit-card-transaction-analysis)
+- 📊 **Power BI:** [Credit Card Transaction Analysis](#credit-card-transaction-analysis)
   
 ## 🚀 Projects
 
