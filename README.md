@@ -12,12 +12,14 @@ Welcome to my Data Analysis Portfolio! This repository showcases a collection of
 ## 🚀 Projects
 
 ### HR Workforce Analysis
-*A brief description of your project, the tools used, and the key insights derived.*
+
+- Analyzed HR data using Power BI, Power Query, and DAX to uncover workforce trends, employee demographics, and attrition insights that support data-driven HR decisions.
 
 **🔗 [View the project here](https://github.com/TlotlisoThene/HR-Workforce-Analysis/blob/main/README_TEMPLATE.md)**
 
 ### Retail Sales Performance Analysis
-*A brief description of your project, the tools used, and the key insights derived.*
+
+- Analyzed annual retail sales data using Microsoft Excel, PivotTables, Power Query, and Charts to evaluate sales performance, identify key trends, and support business decision-making.
 
 **🔗 [View the project here](https://github.com/TlotlisoThene/Retail-Sales-Performance-Analysis/blob/main/README_TEMPLATE.md)**
 
@@ -33,11 +35,4 @@ Welcome to my Data Analysis Portfolio! This repository showcases a collection of
 
 **🔗 [View the project here](https://github.com/TlotlisoThene/Customer-Shopping-Behavior-Analysis/blob/main/README_TEMPLATE.md)**
 
-
-## 🛠️ Skills
-
-- **Data Visualization**: Power BI.
-- **Data Analysis**: SQL, Python, Excel.
-- **Data Modeling**: Power Query, DAX, Star Schema Design, ETL Processes.
-- **Tools**: List any other relevant tools like Power BI Service.
 
