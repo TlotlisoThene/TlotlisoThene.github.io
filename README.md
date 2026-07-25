@@ -11,6 +11,12 @@ Welcome to my Data Analysis Portfolio! This repository showcases a collection of
   
 ## 🚀 Projects
 
+### Customer Shopping Behavior Analysis
+
+- This end-to-end data analytics project explores customer shopping behavior to identify purchasing trends and customer insights. Using **Python, MySQL, and Power BI**, I cleaned, analyzed, and visualized the data to support data-driven business decisions.
+
+- **🔗 [View the project here](https://github.com/TlotlisoThene/Customer-Shopping-Behavior-Analysis/blob/main/README_TEMPLATE.md)**
+
 ### HR Workforce Analysis
 
 - Analyzed HR data using Power BI, Power Query, and DAX to uncover workforce trends, employee demographics, and attrition insights that support data-driven HR decisions.
@@ -29,10 +35,5 @@ Welcome to my Data Analysis Portfolio! This repository showcases a collection of
 
 - **🔗 [View the project here](https://github.com/TlotlisoThene/Credit-Card-Transaction-Analysis/blob/main/README_TEMPLATE.md)**
 
-### Customer Shopping Behavior Analysis
-
-- This end-to-end data analytics project explores customer shopping behavior to identify purchasing trends and customer insights. Using **Python, MySQL, and Power BI**, I cleaned, analyzed, and visualized the data to support data-driven business decisions.
-
-- **🔗 [View the project here](https://github.com/TlotlisoThene/Customer-Shopping-Behavior-Analysis/blob/main/README_TEMPLATE.md)**
 
 
