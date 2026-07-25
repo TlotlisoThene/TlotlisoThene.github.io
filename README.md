@@ -2,6 +2,13 @@
 
 Welcome to my Data Analysis Portfolio! This repository showcases a collection of end-to-end data analytics projects that demonstrate my skills in Python, SQL, Power BI, and Excel. Each project focuses on solving real-world business problems through data cleaning, analysis, visualization, and actionable insights. Feel free to explore my work and see how I turn data into meaningful decisions.
 
+## 📑 Table of Contents
+
+- 🐍 **Python + SQL + Power BI:** [Customer Shopping Behavior Analysis](#customer-shopping-behavior-analysis)
+- 📊 **Power BI:** [HR Workforce Analysis](#hr-workforce-analysis)
+- 📈 **Excel:** [Retail Sales Performance Analysis](#retail-sales-performance-analysis)
+- 💳 **Power BI:** [Credit Card Transaction Analysis](#credit-card-transaction-analysis)
+  
 ## 🚀 Projects
 
 ### HR Workforce Analysis
