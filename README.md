@@ -33,7 +33,7 @@ Welcome to my Data Analysis Portfolio! This repository showcases a collection of
 
 - Analyzed credit card transaction and customer data using **Power BI, SQL, Power Query, and DAX** to monitor key financial metrics, uncover spending trends, and support data-driven business decisions.
 
-- **🔗 [View the project here](https://github.com/TlotlisoThene/Credit-Card-Transaction-Analysis/blob/main/README_TEMPLATE.md)**
+- **🔗 [View the project here](https://github.com/TlotlisoThene/Credit-Card-Transaction-Analysis)**
 
 
 
