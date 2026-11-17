@@ -15,7 +15,7 @@ Welcome to my Data Analysis Portfolio! This repository showcases a collection of
 
 - This end-to-end data analytics project explores customer shopping behavior to identify purchasing trends and customer insights. Using **Python, MySQL, and Power BI**, I cleaned, analyzed, and visualized the data to support data-driven business decisions.
 
-- **🔗 [View the project here](https://github.com/TlotlisoThene/Customer-Shopping-Behavior-Analysis/blob/main/README_TEMPLATE.md)**
+- **🔗 [View the project here](https://github.com/TlotlisoThene/Customer-Shopping-Behavior-Analysis)**
 
 ### HR Workforce Analysis
 
