@@ -21,7 +21,7 @@ Welcome to my Data Analysis Portfolio! This repository showcases a collection of
 
 - Analyzed HR data using Power BI, Power Query, and DAX to uncover workforce trends, employee demographics, and attrition insights that support data-driven HR decisions.
 
-- **🔗 [View the project here](https://github.com/TlotlisoThene/HR-Workforce-Analysis/blob/main/README_TEMPLATE.md)**
+- **🔗 [View the project here](https://github.com/TlotlisoThene/HR-Workforce-Analysis)**
 
 ### Retail Sales Performance Analysis
 
