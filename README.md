@@ -27,7 +27,7 @@ Welcome to my Data Analysis Portfolio! This repository showcases a collection of
 
 - Analyzed annual retail sales data using Microsoft Excel, PivotTables, Power Query, and Charts to evaluate sales performance, identify key trends, and support business decision-making.
 
-- **🔗 [View the project here](https://github.com/TlotlisoThene/Retail-Sales-Performance-Analysis/blob/main/README_TEMPLATE.md)**
+- **🔗 [View the project here](https://github.com/TlotlisoThene/Retail-Sales-Performance-Analysis)**
 
 ### Credit Card Transaction Analysis
 
